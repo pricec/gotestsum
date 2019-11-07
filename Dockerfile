@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=golang:1.12.7-buster
+ARG BASE_IMAGE=golang:1.13.4-buster
 
 FROM ${BASE_IMAGE}
 
